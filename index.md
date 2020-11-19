@@ -4,29 +4,10 @@ You can use the [editor on GitHub](https://github.com/victorll998/victorll998.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Manuwi
+### About Manuwi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We create a fun experience when planning travel by using our application manuwi to collaborate with friends to decide travel destinations and compare different options of destinations.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Updates
 
