@@ -2,6 +2,7 @@
 layout: post
 title: "victor's post"
 date: 2020-11-19
+categories: posts
 ---
 
 ### my very first post
