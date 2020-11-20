@@ -16,6 +16,8 @@ We are now promoting sustainability into our awareness to highlight the idea of 
 
 We create a fun experience when planning travel by using our application manuwi to collaborate with friends to decide travel destinations and compare different options of destinations.
 
+[About the name]({% link About/about-the-name.md %})
+
 _About the name_ Manuwi (Mundowie) origins from early 19th century Australian pidgin, and it is from Dharuk (one of the Australian Aboriginal languages) which means “foot”. It is another way of interpretation of our travel planner.
 
 We value Australian Aboriginal culture and we hope that we share pride in our designs and products.
@@ -29,4 +31,4 @@ bahlabahla
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[Link to a page]({% link About/index.html %})
+
