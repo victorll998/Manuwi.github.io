@@ -1,6 +1,6 @@
 ---
 title: My page
-excerpt_separator: .
+excerpt_separator: <!--more-->
 ---
 
 ### Updates
