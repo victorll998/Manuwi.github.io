@@ -2,6 +2,17 @@
 title: My page
 ---
 
+### Updates
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 ![logo](/assets/Screen Shot 2020-11-20 at 10.59.24 pm.png)
 
 ### About Manuwi
@@ -20,13 +31,9 @@ We create a fun experience when planning travel by using our application manuwi 
 
 
 
-### Updates
-
-bahlabahla
-
 ### Support or Contact
-[mail to victor](victor.vlu998@gmail.com)
+[contact victor](victor.vlu998@gmail.com)
+[contact Arnold](aangeloarnold@gmail.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
