@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We create a fun experience when planning travel by using our application manuwi to collaborate with friends to decide travel destinations and compare different options of destinations.
 
-[About]{% link About/index.md %}
+[About]({% link About/index.md %})
 
 ### Updates
 
