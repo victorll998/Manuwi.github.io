@@ -15,8 +15,6 @@ excerpt_separator: .
 </ul>
 
 
-![logo](/assets/Screen Shot 2020-11-20 at 10.59.24 pm.png)
-
 ### About Manuwi
 
 > “Post COVID-19 recovery: Sustainability and Resilience”
