@@ -1,5 +1,6 @@
 ---
 title: My page
+excerpt_separator: <!--more-->
 ---
 
 ### Updates
@@ -8,6 +9,7 @@ title: My page
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
