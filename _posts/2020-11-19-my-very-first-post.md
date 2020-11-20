@@ -8,3 +8,5 @@ author: Victor
 ---
 
 Well. Finally got around to putting this website together. I will use this place to keep posting the updates of Manuwi project from now on.
+
+[back]({% link index.md %})
