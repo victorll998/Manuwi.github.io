@@ -8,6 +8,8 @@ You can use the [editor on GitHub](https://github.com/victorll998/victorll998.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![logo](/assets/Screen Shot 2020-11-20 at 10.59.24 pm.png)
+
 ### About Manuwi
 
 We create a fun experience when planning travel by using our application manuwi to collaborate with friends to decide travel destinations and compare different options of destinations.
@@ -16,10 +18,6 @@ We create a fun experience when planning travel by using our application manuwi 
 ### Updates
 
 bahlabahla
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/victorll998/victorll998.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 [mail to victor](victor.vlu998@gmail.com)
