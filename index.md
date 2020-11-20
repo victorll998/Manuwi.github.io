@@ -32,8 +32,8 @@ We create a fun experience when planning travel by using our application manuwi 
 
 
 ### Support or Contact
-[contact victor](victor.vlu998@gmail.com)
-[contact Arnold](aangeloarnold@gmail.com)
+[mail to victor](victor.vlu998@gmail.com)
+[mail to Arnold](aangeloarnold@gmail.com)
 
 
 
