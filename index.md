@@ -32,7 +32,7 @@ We are now creating a personalized experience when planning travel by using our 
 
 
 ### Support or Contact
-[victor](victor.vlu998@gmail.com) 
+[Victor](victor.vlu998@gmail.com) 
 [Arnold](aangeloarnold@gmail.com) 
 
 
