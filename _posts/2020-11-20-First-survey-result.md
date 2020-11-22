@@ -5,7 +5,7 @@ date: 2020-11-20
 author: victor
 ---
 
-The first round of survey is targeted to research market. The survey is composed of 10 questions over interests and concerns when people planning travel. 
+[The first round of survey](https://docs.google.com/forms/d/1nvT8GeYFSdeWW8I0RFUj0b00rCsygJ-8F8c0bvktTko/edit) is targeted to research market. The survey is composed of 10 questions over interests and concerns when people planning travel. 
 
 We surveyed our close friends and got **10** sample for this first round survey.
 
